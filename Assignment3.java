@@ -5,7 +5,7 @@ interface func{
 }
 
 
-public class FunctionalInterfaceEg {
+public class Assignment3 {
 	public static void main(String args[]) {
 		met9(()-> { 
 			System.out.println("this is functional interface example");}
