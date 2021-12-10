@@ -2,7 +2,7 @@ package Day2Assignments;
 
 import java.util.*; 
 
-public class ReduceEgN3 { 
+public class Assignment4 { 
 
 	public static void main(String[] args) 
 	{  
