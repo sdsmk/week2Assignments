@@ -3,7 +3,7 @@ import java.util.ArrayList;
 //import java.util.List;
 import java.util.TreeSet;
 
-public class Treeset{
+public class Assignment1{
 	public static void main(String args[]) {
 		ArrayList<String> fruitlist = new ArrayList<String>();
         fruitlist.add("Mango");
