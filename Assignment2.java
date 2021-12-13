@@ -59,7 +59,7 @@ class CustomList<T> extends ArrayList<T>{
 	 }	  
 	}
 
-public class Arraylistdupli {
+public class Assignment2 {
 	 public static void main(String[] args) {
 	  CustomList<Integer> customList = new CustomList<Integer>();
 	  customList.add(4);
